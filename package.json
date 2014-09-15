@@ -1,6 +1,6 @@
 {
   "name": "esconcat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Like es.merge but streams order guaranteed",
   "main": "index.js",
   "dependencies": {
@@ -15,7 +15,6 @@
     "url": "https://github.com/anru/esconcat.git"
   },
   "keywords": [
-    "gulpplugin",
     "streams",
     "concat"
   ],
