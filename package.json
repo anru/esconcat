@@ -1,0 +1,28 @@
+{
+  "name": "esconcat",
+  "version": "1.0.0",
+  "description": "Like es.merge but streams order guaranteed",
+  "main": "index.js",
+  "dependencies": {
+    "through2": "^0.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anru/esconcat.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "streams",
+    "concat"
+  ],
+  "author": "Andrey Rublev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anru/esconcat/issues"
+  },
+  "homepage": "https://github.com/anru/esconcat"
+}
